@@ -4,7 +4,7 @@
 ##########   Go packages       ############
 ###########################################
 echo ""
-echo "Go@Atom v1.0.0."
+echo "GoRustyAtom v1.0.0"
 echo "Author: Tim"
 echo ""
 echo "This script will automatically install everything you need"
